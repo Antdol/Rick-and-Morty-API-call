@@ -1,0 +1,23 @@
+.card {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #888;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.card img {
+  border-radius: 10px;
+}
+
+#next-btn,
+#prev-btn {
+  background-color: #888;
+  height: 30px;
+  width: 30px;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
